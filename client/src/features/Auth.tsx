@@ -1,6 +1,6 @@
 import { FC } from 'react'
 import { useCurrentQuery } from '../services/auth'
-console.log('ntcnfdfdf')
+console.log('add')
 type Props = {
   children: JSX.Element
 }
